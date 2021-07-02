@@ -2,11 +2,20 @@
 <html>
         <head>
             <meta http-equiv="content-type" content="text/html" charset="UTF=8"
-        <title>fffff</title>
+        <title>Золото</title>
         </head>
         <body>
-            <h1>сайт</h1>
-       
+           <table border="1">
+                <tr>
+                    <th>1</th>
+                    <th>2</th>
+                    <th>3</th>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>22</td>
+                </tr>
+            </table>
             <img src="https://detfond.com/wp-content/uploads/2020/06/bill-gejts-811x1024.jpg">
             <h1><a href="https://detfond.com/bill-gejts/" target="_self">о билле</a></h1> 
       
