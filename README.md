@@ -1,2 +1,2 @@
 # lukich
-hello fther/ my name lukka
+hello father/ my name lukka
