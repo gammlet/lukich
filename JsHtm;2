@@ -1,5 +1,5 @@
- const lastName ='Zorin'
+ const lastName ='Zorin';
  
- console.log(nme)
+ console.log(nme);
  lastName = prompt('Your last name?')
  alert('hello ' + lastName)
